@@ -29,4 +29,4 @@
 - **Obfuscation:** Test F
 - **Overload:** Test G
 
-Paper Reference: R.Zilan,3D Taxonomy of Prompt Injection Attacks: Delivery, Payload, Propagation for SE Deployments, submitted to IISEC'26, Ankara, Türkiye.  
+Reference: R.Zilan, 3D Taxonomy of Prompt Injection Attacks: Delivery, Payload, Propagation for SE Deployments, submitted to IISEC'26, Ankara, Türkiye.  
