@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+title: "SecureAssistant: 4-Vector Prompt Injection Defense"
+authors:
+- family-names: "Zilan"
+  given-names: "Ruken"
+repository: "https://github.com/ruken23/SecureAssistant"
