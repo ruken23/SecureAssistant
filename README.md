@@ -1,6 +1,6 @@
 # SecureAssistant: 4-Vector Prompt Injection Defense
 
-**Production-ready LLM security templates** validated against 7 sophisticated attacks (100% success rate). 3D taxonomy + novel 4-vector defense. 7/7 attacks blocked (Gemini/ChatGPT). IEEE paper templates
+**Production-ready LLM security templates** validated against 7 sophisticated attacks (100% success rate). 3D taxonomy + novel 4-vector defense. 7/7 attacks blocked (Gemini/ChatGPT). IEEE submitted paper.
 
 [![GitHub stars](https://img.shields.io/github/stars/ruken23/SecureAssistant)](https://github.com/ruken23/SecureAssistant)
 [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://your-paper-link)
